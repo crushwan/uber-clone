@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f1835705-d4cc-40ee-8431-e1523b2591a7"
+      }
+    },
+    "owner": "krustudio"
   }
 }
